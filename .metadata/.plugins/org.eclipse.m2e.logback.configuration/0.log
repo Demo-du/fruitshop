@@ -1,0 +1,17 @@
+2017-08-29 20:16:53,442 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo1.maven.org/maven2
+2017-08-29 20:18:23,004 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.fruitshop:fruitshop-parent:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-parent/pom.xml.
+2017-08-29 20:18:23,286 [Worker-6] ERROR org.eclipse.m2e.core.MavenPlugin - 
+org.eclipse.jdt.core.JavaModelException: fruitshop-parent does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:495) ~[org.eclipse.jdt.core_3.7.3.v20120119-1537.jar:na]
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2283) ~[org.eclipse.jdt.core_3.7.3.v20120119-1537.jar:na]
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1905) ~[org.eclipse.jdt.core_3.7.3.v20120119-1537.jar:na]
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1927) ~[org.eclipse.jdt.core_3.7.3.v20120119-1537.jar:na]
+	at org.eclipse.m2e.core.MavenResourceProcessor.doCheck(MavenResourceProcessor.java:94) [org.eclipse.m2e.core_1.0.0.me201207231859.jar:na]
+	at org.eclipse.m2e.core.MavenResourceProcessor.checkforOlderMaven(MavenResourceProcessor.java:69) [org.eclipse.m2e.core_1.0.0.me201207231859.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:84) [org.eclipse.m2e.core.ui_1.0.0.me201205290158.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstactCreateMavenProjectJob.runInWorkspace(AbstactCreateMavenProjectJob.java:49) [org.eclipse.m2e.core.ui_1.0.0.me201205290158.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) [org.eclipse.core.resources_3.7.101.v20120125-1505.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.5.101.v20120113-1953.jar:na]
+2017-08-29 20:18:23,579 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.fruitshop:fruitshop-parent:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-parent/pom.xml.
+2017-08-31 14:18:37,983 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo1.maven.org/maven2
+2017-08-31 14:19:47,373 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.fruitshop:fruitshop-parent:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-parent/pom.xml.

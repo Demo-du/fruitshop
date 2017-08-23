@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType45,pulse_com.sun.java.jdk.linux.x86_64_1.6.0.013" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\n<vm id\="pulse_com.sun.java.jdk.linux.x86_64_1.6.0.013" name\="Sun JDK 1.6.0_13" path\="/home/dujianjian/MyEclipse/Common/binary/com.sun.java.jdk.linux.x86_64_1.6.0.013"/>\n</vmType>\n</vmSettings>\n

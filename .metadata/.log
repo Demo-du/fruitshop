@@ -1,0 +1,54 @@
+!SESSION 2017-08-29 20:15:22.686 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:07.351
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/jsp/struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:07.477
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/jsp/struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:07.580
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/jsp/jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:07.686
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/jsp/jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:07.720
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/jsp/struts_tiles_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:07.763
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/jsp/struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:07.811
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/html/javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:07.871
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/html/html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:07.975
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/html/css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:08.049
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/html/htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-08-29 20:16:08.115
+!MESSAGE Installed snippet library: /home/dujianjian/MyEclipse/MyEclipse 10/configuration/org.eclipse.osgi/bundles/132/1/.cp/snippets/html/forms_lists_snippets.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-08-29 20:18:23.287
+!MESSAGE 
+
+!ENTRY org.eclipse.core.jobs 2 2 2017-08-29 20:31:02.699
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob
+!SESSION 2017-08-31 14:17:36.369 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.jobs 2 2 2017-08-31 14:20:24.058
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob
