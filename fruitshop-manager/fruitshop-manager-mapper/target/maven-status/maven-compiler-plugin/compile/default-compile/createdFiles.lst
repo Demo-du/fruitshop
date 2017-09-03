@@ -1,0 +1,11 @@
+com/fruitshop/mapper/TbItemDescMapper.class
+com/fruitshop/mapper/TbItemCatMapper.class
+com/fruitshop/mapper/TbUserMapper.class
+com/fruitshop/mapper/TbOrderItemMapper.class
+com/fruitshop/mapper/TbContentCategoryMapper.class
+com/fruitshop/mapper/TbItemParamMapper.class
+com/fruitshop/mapper/TbOrderShippingMapper.class
+com/fruitshop/mapper/TbContentMapper.class
+com/fruitshop/mapper/TbItemMapper.class
+com/fruitshop/mapper/TbOrderMapper.class
+com/fruitshop/mapper/TbItemParamItemMapper.class

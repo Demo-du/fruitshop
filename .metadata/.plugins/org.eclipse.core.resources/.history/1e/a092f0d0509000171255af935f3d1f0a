@@ -1,0 +1,17 @@
+package com.fruitshop.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.*;
+
+import com.fruitshop.mapper.TbItemMapper;
+import com.fruitshop.pojo.TbItem;
+
+
+@Service
+public class ItemServiceImpl implements ItemService {
+	@Autowired
+	private TbItemMapper itemMapper;
+    public TbItem getItemByid(long itemid){
+    	return null;
+    }
+}

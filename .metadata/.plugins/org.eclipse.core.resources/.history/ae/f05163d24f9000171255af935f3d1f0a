@@ -1,0 +1,5 @@
+package com.fruitshop.service;
+
+public interface ItemService {
+
+}

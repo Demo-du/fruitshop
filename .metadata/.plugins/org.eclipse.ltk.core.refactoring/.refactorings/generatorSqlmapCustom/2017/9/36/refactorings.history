@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.fruitshop.mapper&apos; to &apos;java&apos;&#x0A;- Original project: &apos;generatorSqlmapCustom&apos;&#x0A;- Destination element: &apos;java&apos;&#x0A;- Original element: &apos;generatorSqlmapCustom/src/com.fruitshop.mapper&apos;" description="Copy package" element1="/src&lt;com.fruitshop.mapper" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1504422832835" target="/fruitshop-manager/fruitshop-manager-mapper/src/main/java" version="1.0"/>
+</session>

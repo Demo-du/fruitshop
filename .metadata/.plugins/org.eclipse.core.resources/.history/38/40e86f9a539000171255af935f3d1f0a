@@ -1,0 +1,36 @@
+package com.fruitshop.controller;
+
+import org.springframework.stereotype.*;
+import org.springframework.web.bind.annotation.*;
+import org.springframework.beans.factory.annotation.*;
+
+import com.fruitshop.pojo.TbItem;
+import com.fruitshop.service.ItemService;
+
+@Controller
+public class ItemController {
+
+	@Autowired
+	private ItemService itemService;
+	
+	@RequestMapping("/item/{itemId}")
+	@ResponseBody
+	public TbItem getItemById(@PathVariable Long itemId) {
+		TbItem tbItem = itemService.getItemById(itemId);
+		return tbItem;
+	}
+	
+	@RequestMapping("/item/list")
+	@ResponseBody
+	public EUDataGridResult getItemList(Integer page, Integer rows) {
+		EUDataGridResult result = itemService.getItemList(page, rows);
+		return result;
+	}
+	
+	@RequestMapping(value="/item/save", method=RequestMethod.POST)
+	@ResponseBody
+	private TaotaoResult createItem(TbItem item, String desc, String itemParams) throws Exception {
+		TaotaoResult result = itemService.createItem(item, desc, itemParams);
+		return result;
+	}
+}
