@@ -1,6 +1,0 @@
-INDEX VERSION 1.122+/home/dujianjian/Workspaces/MyEclipse/fruitshop/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1558735029.index
-3209820824.index
-4201483345.index
-683106225.index
-1015470808.index

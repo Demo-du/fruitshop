@@ -1,5 +1,0 @@
-package com.fruitshop.service;
-
-public interface ItemService {
-    TbItem getItemByid(long itemid);
-}

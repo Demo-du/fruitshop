@@ -1,8 +1,0 @@
-package com.fruitshop.controller;
-
-import org.springframework.stereotype.*;
-@Controller
-public class ItemController {
-@Autowired
-
-}

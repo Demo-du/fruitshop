@@ -1,3 +1,0 @@
-INDEX VERSION 1.126
-/home/dujianjian/Workspaces/MyEclipse/fruitshop/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/627860887.index
-/fruitshop-manager-web/src/main/java
