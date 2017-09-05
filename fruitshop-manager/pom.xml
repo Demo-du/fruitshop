@@ -21,6 +21,7 @@
 	<modules>
 		<module>fruitshop-manager-pojo</module>
 		<module>fruitshop-manager-mapper</module>
+		<module>fruitshop-manager-service</module>
 	</modules>
 	<build>
 		<!-- 配置插件 -->
