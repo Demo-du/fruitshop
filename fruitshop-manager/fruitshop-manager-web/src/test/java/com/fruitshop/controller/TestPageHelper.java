@@ -27,7 +27,7 @@ public class TestPageHelper {
 		//分页处理
 		PageHelper.startPage(2, 10);
 		List<TbItem> list = mapper.selectByExample(example);
-		//取商品列表
+		// 取水果列表
 		for (TbItem tbItem : list) {
 			System.out.println(tbItem.getTitle());
 		}
