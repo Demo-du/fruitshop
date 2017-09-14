@@ -17,10 +17,7 @@ import org.apache.commons.net.ftp.FTPReply;
  * ftp上传下载工具类
  * <p>Title: FtpUtil</p>
  * <p>Description: </p>
- * <p>Company: www.itcast.com</p> 
- * @author	入云龙
- * @date	2015年7月29日下午8:11:51
- * @version 1.0
+
  */
 public class FtpUtil {
 
@@ -141,7 +138,7 @@ public class FtpUtil {
 		return result;
 	}
 	
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		try {  
 	        FileInputStream in=new FileInputStream(new File("D:\\temp\\image\\gaigeming.jpg"));  
 	        boolean flag = uploadFile("192.168.25.133", 21, "ftpuser", "ftpuser", "/home/ftpuser/www/images","/2015/01/21", "gaigeming.jpg", in);  
@@ -149,5 +146,5 @@ public class FtpUtil {
 	    } catch (FileNotFoundException e) {  
 	        e.printStackTrace();  
 	    }  
-	}
+	}*/
 }

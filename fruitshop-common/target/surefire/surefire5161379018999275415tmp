@@ -1,0 +1,5 @@
+#surefire
+#Wed Sep 13 10:35:47 CST 2017
+user.dir=/home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-common
+localRepository=/home/dujianjian/.m2/repository
+basedir=/home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-common

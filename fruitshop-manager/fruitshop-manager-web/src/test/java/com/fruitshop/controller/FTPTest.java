@@ -25,12 +25,12 @@ public class FTPTest {
 		//读取本地文件
 		FileInputStream inputStream = new FileInputStream(new File("/home/dujianjian/1.jpg"));
 		//设置上传的路径
-		ftpClient.changeWorkingDirectory("/home/ftp/image");
+		ftpClient.changeWorkingDirectory("/home/dujianjian/djjftp/d");
 		//修改上传文件/的格式
 		ftpClient.setFileType(FTP.BINARY_FILE_TYPE);
 		//第一个参数：服务器端文档名
 		//第二个参数：上传文档的inputStream
-		ftpClient.storeFile("hello1.jpg", inputStream);
+		ftpClient.storeFile("hello5.jpg", inputStream);
 		//关闭连接
 		ftpClient.logout();
 	}
@@ -38,7 +38,8 @@ public class FTPTest {
 	@Test
 	public void testFtpUtil() throws Exception {
 		FileInputStream inputStream = new FileInputStream(new File("/home/dujianjian/1.jpg"));
-		FtpUtil.uploadFile("localhost", 21, "djjftp", "dujianjian", "/home/ftp/", "/2017/09/012", "1.jpg", inputStream);
+		FtpUtil.uploadFile("127.0.0.1", 21, "djjftp", "dujianjian", "/home/duianjian/djjftp/image", "/2015/09/04", "djj.jpg", inputStream);
 		
 	}
+	
 }
