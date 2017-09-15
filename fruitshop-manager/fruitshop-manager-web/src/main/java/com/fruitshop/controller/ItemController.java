@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.fruitshop.common.pojo.EUDataGridResult;
+import com.fruitshop.common.pojo.FruitshopResult;
 import com.fruitshop.pojo.TbItem;
 import com.fruitshop.service.ItemService;
 
@@ -31,5 +32,10 @@ public class ItemController {
 		EUDataGridResult result = itemService.getItemList(page, rows);
 		return result;
 	}
-
+	@RequestMapping(value="/item/save", method=RequestMethod.POST)
+	@ResponseBody
+	private FruitshopResult createItem(TbItem item, String desc, String itemParams) throws Exception {
+		FruitshopResult result = itemService.createItem(item, desc, itemParams);
+		return result;
+	}
 }
