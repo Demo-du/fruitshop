@@ -21,6 +21,8 @@ import com.github.pagehelper.PageInfo;
 public class ItemServiceImpl implements ItemService {
 	@Autowired
 	private TbItemMapper itemMapper;
+	@Autowired
+	private TbItemDescMapper itemDescMapper;
 	@Override
     public TbItem getItemById(long itemId){
 		TbItemExample example=new TbItemExample();
@@ -68,17 +70,31 @@ public class ItemServiceImpl implements ItemService {
 				item.setUpdated(new Date());
 				//插入到数据库
 				itemMapper.insert(item);
-				//添加商品描述信息
-				/*FruitshopResult result = insertItemDesc(itemId, desc);
+				//添加水果描述信息
+				FruitshopResult result = insertItemDesc(itemId, desc);
 				if (result.getStatus() != 200) {
-					throw new Exception();
+					throw new Exception();//有异常就要抛，不要try catch
 				}
 				//添加规格参数
-				result = insertItemParamItem(itemId, itemParam);
+				/*result = insertItemParamItem(itemId, itemParam);
 				if (result.getStatus() != 200) {
 					throw new Exception();
 				}*/
 				return FruitshopResult.ok();
 	}
-
+	/**
+	 * 添加水果描述
+	 * <p>Title: insertItemDesc</p>
+	 * <p>Description: </p>
+	 * @param desc
+	 */
+	private FruitshopResult insertItemDesc(Long itemId, String desc) {
+		TbItemDesc itemDesc = new TbItemDesc();
+		itemDesc.setItemId(itemId);
+		itemDesc.setItemDesc(desc);
+		itemDesc.setCreated(new Date());
+		itemDesc.setUpdated(new Date());
+		itemDescMapper.insert(itemDesc);
+		return FruitshopResult.ok();
+	}
 }
