@@ -4065,3 +4065,15 @@ Caused by: java.nio.channels.UnresolvedAddressException: null
 2017-09-26 15:53:54,156 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-09-26 15:53:54,158 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-09-26 15:53:54,158 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-26 16:09:32,130 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 16:09:32,137 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-09-26 16:09:32,149 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 16:09:32,150 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-26 16:09:56,491 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 16:09:56,494 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-09-26 16:09:56,496 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 16:09:56,496 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-26 16:10:02,498 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 16:10:02,510 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-09-26 16:10:02,513 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 16:10:02,513 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
