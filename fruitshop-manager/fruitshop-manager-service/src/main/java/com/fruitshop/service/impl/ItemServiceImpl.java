@@ -23,6 +23,8 @@ public class ItemServiceImpl implements ItemService {
 	private TbItemMapper itemMapper;
 	@Autowired
 	private TbItemDescMapper itemDescMapper;
+	@Autowired
+	private TbItemParamItemMapper itemParamItemMapper;
 	@Override
     public TbItem getItemById(long itemId){
 		TbItemExample example=new TbItemExample();
@@ -96,5 +98,26 @@ public class ItemServiceImpl implements ItemService {
 		itemDesc.setUpdated(new Date());
 		itemDescMapper.insert(itemDesc);
 		return FruitshopResult.ok();
+	}
+	/**
+	 * 添加规格参数
+	 * <p>Title: insertItemParamItem</p>
+	 * <p>Description: </p>
+	 * @param itemId
+	 * @param itemParam
+	 * @return
+	 */
+	private FruitshopResult insertItemParamItem(Long itemId, String itemParam) {
+		//创建一个pojo
+		TbItemParamItem itemParamItem = new TbItemParamItem();
+		itemParamItem.setItemId(itemId);
+		itemParamItem.setParamData(itemParam);
+		itemParamItem.setCreated(new Date());
+		itemParamItem.setUpdated(new Date());
+		//向表中插入数据
+		itemParamItemMapper.insert(itemParamItem);
+		
+		return FruitshopResult.ok();
+		
 	}
 }
