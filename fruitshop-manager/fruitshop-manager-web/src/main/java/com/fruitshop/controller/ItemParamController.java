@@ -28,7 +28,7 @@ public class ItemParamController {
 		FruitshopResult result = itemParamService.getItemParamByCid(itemCatId);
 		return result;
 	}
-	
+	//保存水果参数
 	@RequestMapping("/save/{cid}")
 	@ResponseBody
 	public FruitshopResult insertItemParam(@PathVariable Long cid, String paramData) {
