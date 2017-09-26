@@ -25,7 +25,8 @@ public class ItemParamServiceImpl implements ItemParamService {
 		TbItemParamExample example = new TbItemParamExample();
 		Criteria criteria = example.createCriteria();
 		criteria.andItemCatIdEqualTo(cid);
-		List<TbItemParam> list = itemParamMapper.selectByExampleWithBLOBs(example);
+		
+		List<TbItemParam> list = itemParamMapper.selectByExampleWithBLOBs(example);//修改，包含大文本列
 		//判断是否查询到结果
 		if (list != null && list.size() > 0) {
 			return FruitshopResult.ok(list.get(0));
