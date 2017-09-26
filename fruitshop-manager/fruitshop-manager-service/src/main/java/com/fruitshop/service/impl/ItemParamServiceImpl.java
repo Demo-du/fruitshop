@@ -35,7 +35,7 @@ public class ItemParamServiceImpl implements ItemParamService {
 	}
 
 	@Override
-	public FruitshopResult insertItemParam(TbItemParam itemParam) {
+	public FruitshopResult insertItemParam(TbItemParam itemParam) {//插入保存
 		//补全pojo
 		itemParam.setCreated(new Date());
 		itemParam.setUpdated(new Date());

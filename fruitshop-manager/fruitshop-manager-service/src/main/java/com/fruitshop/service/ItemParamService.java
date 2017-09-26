@@ -6,5 +6,5 @@ import com.fruitshop.pojo.TbItemParam;
 public interface ItemParamService {
 
 	FruitshopResult getItemParamByCid(long cid);
-	FruitshopResult insertItemParam(TbItemParam itemParam);
+	FruitshopResult insertItemParam(TbItemParam itemParam);//保存水果参数
 }

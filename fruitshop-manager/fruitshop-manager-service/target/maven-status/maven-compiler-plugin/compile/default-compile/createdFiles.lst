@@ -1,6 +1,8 @@
-com/fruitshop/service/PictureService.class
 com/fruitshop/service/impl/PictureServiceImpl.class
 com/fruitshop/service/ItemCatService.class
-com/fruitshop/service/impl/ItemCatServiceImpl.class
 com/fruitshop/service/ItemService.class
 com/fruitshop/service/impl/ItemServiceImpl.class
+com/fruitshop/service/PictureService.class
+com/fruitshop/service/impl/ItemCatServiceImpl.class
+com/fruitshop/service/impl/ItemParamServiceImpl.class
+com/fruitshop/service/ItemParamService.class

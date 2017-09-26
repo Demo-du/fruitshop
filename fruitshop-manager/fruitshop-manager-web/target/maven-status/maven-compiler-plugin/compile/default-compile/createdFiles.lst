@@ -2,3 +2,4 @@ com/fruitshop/controller/ItemCatController.class
 com/fruitshop/controller/PageController.class
 com/fruitshop/controller/PictureController.class
 com/fruitshop/controller/ItemController.class
+com/fruitshop/controller/ItemParamController.class
