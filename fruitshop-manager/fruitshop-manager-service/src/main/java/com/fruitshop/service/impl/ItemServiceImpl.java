@@ -78,10 +78,10 @@ public class ItemServiceImpl implements ItemService {
 					throw new Exception();//有异常就要抛，不要try catch
 				}
 				//添加规格参数
-				/*result = insertItemParamItem(itemId, itemParam);
+				result = insertItemParamItem(itemId, itemParam);
 				if (result.getStatus() != 200) {
 					throw new Exception();
-				}*/
+				}
 				return FruitshopResult.ok();
 	}
 	/**
