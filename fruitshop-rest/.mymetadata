@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fruitshop-rest"
+  id="myeclipse.1506479761928"
+  context-root="/fruitshop-rest"
+  j2ee-spec="1.7"
+  archive="fruitshop-rest.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
