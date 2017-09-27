@@ -4,6 +4,12 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <dependent-module archiveName="fruitshop-common-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/fruitshop-common/fruitshop-common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="fruitshop-manager-pojo-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/fruitshop-manager-pojo/fruitshop-manager-pojo">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="/fruitshop-portal"/>
         <property name="java-output-path" value="/fruitshop-portal/src/main/webapp/WEB-INF/classes"/>
     </wb-module>
