@@ -4211,3 +4211,161 @@ Caused by: java.nio.channels.UnresolvedAddressException: null
 2017-09-27 10:36:04,006 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-09-27 10:36:04,008 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-09-27 10:36:04,008 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:43:35,932 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-rest:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-rest/pom.xml.
+2017-09-27 10:43:56,188 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/redis/clients/jedis/2.7.2/jedis-2.7.2.pom
+2017-09-27 10:43:56,211 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3.pom
+2017-09-27 10:43:56,553 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:43:56,553 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:43:56,555 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:43:56,555 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:46:14,188 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo1.maven.org/maven2
+2017-09-27 10:46:40,273 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-09-27 10:46:41,696 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:46:41,698 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:46:41,702 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:46:41,702 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:46:45,828 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:46:45,828 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:46:45,830 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:46:45,831 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:46:47,708 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:46:47,720 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2017-09-27 10:46:47,857 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:46:47,858 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:46:48,387 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:46:48,388 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:46:48,399 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:46:48,400 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:47:19,135 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:47:19,138 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-09-27 10:47:19,140 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:47:19,141 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:47:20,633 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:47:20,634 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:47:20,636 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:47:20,637 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:47:45,669 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo1.maven.org/maven2 in 91485 ms
+2017-09-27 10:48:20,464 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ceshi:ceshi:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/ceshi/pom.xml.
+2017-09-27 10:48:24,090 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-common:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-common/pom.xml.
+2017-09-27 10:48:24,213 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-09-27 10:48:24,324 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:24,325 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:48:24,327 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:24,327 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:48:24,614 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/pom.xml.
+2017-09-27 10:48:24,785 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-pojo:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-pojo/pom.xml.
+2017-09-27 10:48:24,821 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-mapper:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-mapper/pom.xml.
+2017-09-27 10:48:24,864 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-service:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-service/pom.xml.
+2017-09-27 10:48:24,945 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-web:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-web/pom.xml.
+2017-09-27 10:48:28,302 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-pojo:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-pojo/pom.xml.
+2017-09-27 10:48:28,493 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:28,493 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:48:28,497 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:28,497 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:48:28,953 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-mapper:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-mapper/pom.xml.
+2017-09-27 10:48:29,264 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:29,270 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2017-09-27 10:48:29,289 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:29,290 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:48:29,623 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-service:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-service/pom.xml.
+2017-09-27 10:48:29,925 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:29,925 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:48:29,927 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:29,928 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:48:38,922 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-web:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-web/pom.xml.
+2017-09-27 10:48:39,606 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:39,607 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-09-27 10:48:39,612 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:39,612 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:48:40,011 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.fruitshop:fruitshop-parent:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-parent/pom.xml.
+2017-09-27 10:48:40,021 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-rest:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-rest/pom.xml.
+2017-09-27 10:48:40,729 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-common:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-common/pom.xml.
+2017-09-27 10:48:40,790 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-09-27 10:48:40,796 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/pom.xml.
+2017-09-27 10:48:40,969 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-pojo:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-pojo/pom.xml.
+2017-09-27 10:48:41,024 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-mapper:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-mapper/pom.xml.
+2017-09-27 10:48:41,076 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-service:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-service/pom.xml.
+2017-09-27 10:48:41,109 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-manager-web:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-web/pom.xml.
+2017-09-27 10:48:42,611 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-rest:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-rest/pom.xml.
+2017-09-27 10:48:43,436 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:43,437 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:48:43,438 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:48:43,439 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,550 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,598 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,602 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,602 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,740 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,741 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,743 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,744 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,789 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,789 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,792 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,793 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,825 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,826 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,830 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,830 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,960 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,960 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:12,962 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:12,962 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:37,838 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-27 10:49:44,669 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-pojo
+2017-09-27 10:49:44,670 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-09-27 10:49:57,101 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:57,102 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:49:57,103 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:49:57,104 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:50:17,117 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-mapper
+2017-09-27 10:50:17,118 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-09-27 10:50:24,784 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:50:24,784 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:50:24,787 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:50:24,788 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 10:51:00,538 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-mapper
+2017-09-27 10:51:00,538 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-09-27 10:56:50,785 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-27 11:02:29,312 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-rest:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-rest/pom.xml.
+2017-09-27 11:02:29,502 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fruitshop-rest/src/main/java
+2017-09-27 11:02:29,505 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fruitshop-rest/src/main/resources
+2017-09-27 11:02:29,533 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fruitshop-rest/src/test/java
+2017-09-27 11:02:29,546 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fruitshop-rest/src/test/resources
+2017-09-27 11:02:32,689 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-rest:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-rest/pom.xml.
+2017-09-27 11:02:33,774 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:02:33,774 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:02:33,776 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:02:33,777 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:03:59,229 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-rest:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-rest/pom.xml.
+2017-09-27 11:03:59,238 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.taotao:taotao-manager-mapper:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-09-27 11:03:59,306 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.taotao:taotao-manager-mapper:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-09-27 11:03:59,399 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:03:59,399 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:03:59,401 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:03:59,402 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:04:14,907 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fruitshop:fruitshop-rest:0.0.1-SNAPSHOT @ /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-rest/pom.xml.
+2017-09-27 11:04:15,427 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:04:15,428 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:04:15,429 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:04:15,430 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:04:59,075 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:04:59,075 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:04:59,078 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:04:59,078 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:04:59,113 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:04:59,115 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-09-27 11:04:59,117 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:04:59,117 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:05:02,068 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-27 11:06:36,185 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-mapper
+2017-09-27 11:06:36,185 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-09-27 11:10:41,012 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-mapper
+2017-09-27 11:10:41,013 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-09-27 11:10:44,875 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:10:44,877 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2017-09-27 11:10:44,884 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:10:44,884 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-27 11:11:00,407 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-09-27 11:11:07,820 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/dujianjian/Workspaces/MyEclipse/fruitshop/fruitshop-manager/fruitshop-manager-mapper
+2017-09-27 11:11:07,820 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package

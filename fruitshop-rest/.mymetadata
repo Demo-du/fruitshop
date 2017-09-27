@@ -2,7 +2,7 @@
 <project-module
   type="WEB"
   name="fruitshop-rest"
-  id="myeclipse.1506479761928"
+  id="myeclipse.1506481350769"
   context-root="/fruitshop-rest"
   j2ee-spec="1.7"
   archive="fruitshop-rest.war">
