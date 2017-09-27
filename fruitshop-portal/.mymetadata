@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fruitshop-portal"
+  id="myeclipse.1506494776255"
+  context-root="/fruitshop-portal"
+  j2ee-spec="1.7"
+  archive="fruitshop-portal.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
