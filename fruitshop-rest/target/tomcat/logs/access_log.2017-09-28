@@ -1,0 +1,4 @@
+127.0.0.1 - - [28/Sep/2017:16:33:12 +0800] "GET /rest/itemcat/list HTTP/1.1" 200 30461 http-bio-8081-exec-1 1593
+127.0.0.1 - - [28/Sep/2017:16:33:13 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-2 5
+127.0.0.1 - - [28/Sep/2017:16:33:26 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-3 4
+127.0.0.1 - - [28/Sep/2017:16:33:41 +0800] "GET /rest/itemcat/list?callback=myfunction HTTP/1.1" 200 30479 http-bio-8081-exec-4 543

@@ -32,6 +32,7 @@ public class ItemCatController {
 		String result = callback + "(" + json + ");";
 		return result;
 	}*/
+	//Springmvc4.1之后版本
 	@RequestMapping("/itemcat/list")
 	@ResponseBody
 	public Object getItemCatList(String callback) {
