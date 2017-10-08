@@ -44,7 +44,7 @@ public class HttpClientTest {
 		CloseableHttpClient httpClient = HttpClients.createDefault();
 		//创建一个uri对象
 		URIBuilder uriBuilder = new URIBuilder("http://www.sogou.com/web");
-		uriBuilder.addParameter("query", "花千骨");
+		uriBuilder.addParameter("query", "杜健健");
 		HttpGet get = new HttpGet(uriBuilder.build());
 		//执行请求
 		CloseableHttpResponse response = httpClient.execute(get);
