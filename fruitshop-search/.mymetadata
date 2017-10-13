@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fruitshop-search"
+  id="myeclipse.1507878109579"
+  context-root="/fruitshop-search"
+  j2ee-spec="1.7"
+  archive="fruitshop-search.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
