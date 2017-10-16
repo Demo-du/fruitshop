@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>${query} - 水果搜索 - 杜买</title>
 <meta name="Keywords" content="java,杜买java" />
-<meta name="description" content="在杜买中找到了29910件java的类似商品，其中包含了“图书”，“电子书”，“教育音像”，“骑行运动”等类型的java的商品。" />
+<meta name="description" content="在杜买中找到了多种类型的商品。" />
 <link rel="stylesheet" type="text/css" href="/css/base.css" media="all" />
 <link rel="stylesheet" type="text/css" href="/css/psearch20131008.css" media="all" />
 <link rel="stylesheet" type="text/css" href="/css/psearch.onebox.css" media="all" />
