@@ -36,7 +36,7 @@
 		<constructor-arg name="port" value="6379"></constructor-arg>
 		<constructor-arg name="poolConfig" ref="jedisPoolConfig"></constructor-arg>
 	</bean>
-	<bean id="jedisClient" class="com.fruitshop.rest.dao.impl.JedisClientSingle"/> 
+	<bean id="jedisClient" class="com.fruitshop.sso.dao.impl.JedisClientSingle"/> 
 	
 	
 	<!-- jedis集群版配置 -->
@@ -71,5 +71,5 @@
 		</constructor-arg>
 		<constructor-arg name="poolConfig" ref="jedisPoolConfig"></constructor-arg>
 	</bean>
-	<bean id="jedisClientCluster" class="com.fruitshop.rest.dao.impl.JedisClientCluster"></bean>-->
+	<bean id="jedisClientCluster" class="com.fruitshop.sso.dao.impl.JedisClientCluster"></bean>-->
 </beans> 

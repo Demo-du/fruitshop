@@ -33,6 +33,6 @@
 	<!-- 切面 -->
 	<aop:config>
 		<aop:advisor advice-ref="txAdvice"
-			pointcut="execution(* com.fruitshop.rest.service.*.*(..))" />
+			pointcut="execution(* com.fruitshop.sso.service.*.*(..))" />
 	</aop:config>
 </beans>
