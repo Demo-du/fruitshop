@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fruitshop-sso"
+  id="myeclipse.1508246755776"
+  context-root="/fruitshop-sso"
+  j2ee-spec="1.7"
+  archive="fruitshop-sso.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
