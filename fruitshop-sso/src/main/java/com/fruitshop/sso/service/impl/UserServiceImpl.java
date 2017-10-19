@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.DigestUtils;
 
 import com.fruitshop.common.pojo.FruitshopResult;
-//import com.fruitshop.common.utils.CookieUtils;
+import com.fruitshop.common.utils.CookieUtils;
 import com.fruitshop.common.utils.JsonUtils;
 import com.fruitshop.mapper.TbUserMapper;
 import com.fruitshop.pojo.TbUser;
@@ -105,7 +105,7 @@ public class UserServiceImpl implements UserService {
 		jedisClient.expire(REDIS_USER_SESSION_KEY + ":" + token, SSO_SESSION_EXPIRE);
 		
 		//添加写cookie的逻辑，cookie的有效期是关闭浏览器就失效。
-		//CookieUtils.setCookie(request, response, "TT_TOKEN", token);
+		CookieUtils.setCookie(request, response, "TT_TOKEN", token);
 		
 		//返回token
 		return FruitshopResult.ok(token);
