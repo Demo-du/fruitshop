@@ -2,7 +2,7 @@ package com.fruitshop.order.dao.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.fruitshop.rest.dao.JedisClient;
+import com.fruitshop.order.dao.JedisClient;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
