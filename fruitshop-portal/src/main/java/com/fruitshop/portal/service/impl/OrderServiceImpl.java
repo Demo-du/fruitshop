@@ -30,7 +30,7 @@ public class OrderServiceImpl implements OrderService {
 		//调用taotao-order的服务提交订单。
 		String json = HttpClientUtil.doPostJson(ORDER_BASE_URL + ORDER_CREATE_URL, JsonUtils.objectToJson(order));
 		//把json转换成taotaoResult
-		TaotaoResult taotaoResult = TaotaoResult.format(json);
+		FruitshopResult taotaoResult = FruitshopResult.format(json);
 		if (taotaoResult.getStatus() == 200) {
 			Object orderId = taotaoResult.getData();
 			return orderId.toString();
